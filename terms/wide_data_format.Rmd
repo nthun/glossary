@@ -1,4 +1,4 @@
-## wide
+## wide data format
 
 <dfn>Data where all of the observations about one subject are in the same row</dfn>
 
@@ -11,6 +11,6 @@ x <- tibble::tibble(id = c("A", "B"),
 knitr::kable(x, caption = "Wide data")
 ```
 
-Contrast with [long data](l.html#long).
+Contrast with [long data format](l.html#long_data_format).
 
 
