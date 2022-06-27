@@ -1,4 +1,4 @@
-## tidy data
+## tidy data format
 
 <dfn>A format for data that maps the meaning onto the structure.</dfn>
 
