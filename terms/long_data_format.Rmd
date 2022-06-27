@@ -1,4 +1,4 @@
-## long
+## long data format
 
 <dfn>Data where each observation is on a separate row</dfn>
 
@@ -11,4 +11,4 @@ tibble::tibble(id = c("A", "B"),
   knitr::kable(caption = "Long data")
 ```
 
-Contrast with [wide data](w.html#wide).
+Contrast with [wide data format](w.html#wide_data_format).
